@@ -5,9 +5,9 @@ Author by SHISHU
 10th Jan 2018
 
 Prequisite environment:
-python 2.7
-opencv 3.0 or above
+  python 2.7
+  opencv 3.0 or above
 
-run jupyter notebook and open stop_sign_detect.ipynb
+run jupyter notebook and open stop_sign_detection.ipynb
 
 enjoy
